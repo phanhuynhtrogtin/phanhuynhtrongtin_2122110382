@@ -11,7 +11,7 @@ using phanhuynhtrongtin_2122110382.Data;
 namespace phanhuynhtrongtin_2122110382.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250328085853_InitialCreate")]
+    [Migration("20250404103244_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -23,6 +23,27 @@ namespace phanhuynhtrongtin_2122110382.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("phanhuynhtrongtin_2122110382.Model.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categories");
+                });
 
             modelBuilder.Entity("phanhuynhtrongtin_2122110382.Model.Product", b =>
                 {
