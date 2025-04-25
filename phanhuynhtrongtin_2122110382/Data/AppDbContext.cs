@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using phanhuynhtrongtin_2122110382.Controllers;
 using phanhuynhtrongtin_2122110382.Model;
 using System.Collections.Generic;
+=======
+﻿using phanhuynhtrongtin_2122110382.Model;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
 
 namespace phanhuynhtrongtin_2122110382.Data
 {
     public class AppDbContext : DbContext
     {
+<<<<<<< HEAD
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<User> Users { get; set; }
@@ -34,4 +41,11 @@ namespace phanhuynhtrongtin_2122110382.Data
            
         }
     }
+=======
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+    }
+
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
 }

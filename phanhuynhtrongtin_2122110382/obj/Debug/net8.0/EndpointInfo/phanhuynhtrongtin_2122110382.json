@@ -1,6 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
+<<<<<<< HEAD
     "title": "MyShop API",
     "version": "v1"
   },
@@ -36,11 +37,18 @@
         }
       }
     },
+=======
+    "title": "phanhuynhtrongtin_2122110382",
+    "version": "1.0"
+  },
+  "paths": {
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
     "/api/Category": {
       "get": {
         "tags": [
           "Category"
         ],
+<<<<<<< HEAD
         "parameters": [
           {
             "name": "page",
@@ -61,6 +69,8 @@
             }
           }
         ],
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
         "responses": {
           "200": {
             "description": "OK",
@@ -101,17 +111,29 @@
           "content": {
             "application/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/CategoryDTO"
+=======
+                "$ref": "#/components/schemas/Category"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "text/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/CategoryDTO"
+=======
+                "$ref": "#/components/schemas/Category"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "application/*+json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/CategoryDTO"
+=======
+                "$ref": "#/components/schemas/Category"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             }
           }
@@ -198,17 +220,29 @@
           "content": {
             "application/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/CategoryDTO"
+=======
+                "$ref": "#/components/schemas/Category"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "text/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/CategoryDTO"
+=======
+                "$ref": "#/components/schemas/Category"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "application/*+json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/CategoryDTO"
+=======
+                "$ref": "#/components/schemas/Category"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             }
           }
@@ -241,6 +275,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/Order": {
       "get": {
         "tags": [
@@ -491,6 +526,8 @@
         }
       }
     },
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
     "/api/Product": {
       "get": {
         "tags": [
@@ -510,17 +547,29 @@
           "content": {
             "application/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProductDTO"
+=======
+                "$ref": "#/components/schemas/Product"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "text/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProductDTO"
+=======
+                "$ref": "#/components/schemas/Product"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "application/*+json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProductDTO"
+=======
+                "$ref": "#/components/schemas/Product"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             }
           }
@@ -573,17 +622,29 @@
           "content": {
             "application/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProductDTO"
+=======
+                "$ref": "#/components/schemas/Product"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "text/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProductDTO"
+=======
+                "$ref": "#/components/schemas/Product"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             },
             "application/*+json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProductDTO"
+=======
+                "$ref": "#/components/schemas/Product"
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
               }
             }
           }
@@ -616,6 +677,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/Product/{id}/image": {
       "get": {
         "tags": [
@@ -701,6 +763,8 @@
         }
       }
     },
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -746,17 +810,26 @@
       "Category": {
         "type": "object",
         "properties": {
+<<<<<<< HEAD
           "cat_Id": {
             "type": "integer",
             "format": "int32"
           },
           "cat_Name": {
+=======
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
             "type": "string",
             "nullable": true
           },
           "image": {
             "type": "string",
             "nullable": true
+<<<<<<< HEAD
           },
           "products": {
             "type": "array",
@@ -840,6 +913,8 @@
           "price": {
             "type": "number",
             "format": "double"
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
           }
         },
         "additionalProperties": false
@@ -847,6 +922,7 @@
       "Product": {
         "type": "object",
         "properties": {
+<<<<<<< HEAD
           "product_Id": {
             "type": "integer",
             "format": "int32"
@@ -920,18 +996,24 @@
         ],
         "type": "object",
         "properties": {
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
           "id": {
             "type": "integer",
             "format": "int32"
           },
+<<<<<<< HEAD
           "username": {
             "minLength": 1,
             "type": "string"
           },
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
           "name": {
             "type": "string",
             "nullable": true
           },
+<<<<<<< HEAD
           "email": {
             "type": "string",
             "format": "email",
@@ -940,6 +1022,15 @@
           "password": {
             "minLength": 1,
             "type": "string"
+=======
+          "image": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "string",
+            "nullable": true
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
           }
         },
         "additionalProperties": false
@@ -967,6 +1058,7 @@
         },
         "additionalProperties": false
       }
+<<<<<<< HEAD
     },
     "securitySchemes": {
       "Bearer": {
@@ -982,4 +1074,8 @@
       "Bearer": [ ]
     }
   ]
+=======
+    }
+  }
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
 }

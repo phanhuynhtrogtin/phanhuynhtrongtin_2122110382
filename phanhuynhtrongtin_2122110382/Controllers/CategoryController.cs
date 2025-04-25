@@ -1,14 +1,23 @@
 ﻿
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using phanhuynhtrongtin_2122110382.Data;
 using phanhuynhtrongtin_2122110382.DTO;
+=======
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using phanhuynhtrongtin_2122110382.Data;
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
 using phanhuynhtrongtin_2122110382.Model;
 
 namespace phanhuynhtrongtin_2122110382.Controllers
 {
+<<<<<<< HEAD
    
+=======
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase
@@ -23,6 +32,7 @@ namespace phanhuynhtrongtin_2122110382.Controllers
 
         // GET: api/Category
         [HttpGet]
+<<<<<<< HEAD
         public async Task<ActionResult<IEnumerable<Category>>> GetCategories(int page = 1, int pageSize = 10)
         {
             var categories = await _context.Categories
@@ -34,6 +44,14 @@ namespace phanhuynhtrongtin_2122110382.Controllers
         }
 
 
+=======
+        public async Task<ActionResult<IEnumerable<Category>>> GetCategories()
+        {
+            var categories = await _context.Categories.ToListAsync();
+            return Ok(categories);  // Return a list of categories
+        }
+
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
         // GET: api/Category/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Category>> GetCategory(int id)
@@ -50,6 +68,7 @@ namespace phanhuynhtrongtin_2122110382.Controllers
 
         // POST: api/Category
         [HttpPost]
+<<<<<<< HEAD
         public async Task<ActionResult<Category>> PostCategory([FromBody] CategoryDTO categoryDto)
         {
             if (categoryDto == null)
@@ -89,13 +108,47 @@ namespace phanhuynhtrongtin_2122110382.Controllers
             try
             {
                 _context.Entry(existingCategory).State = EntityState.Modified;
+=======
+        public async Task<ActionResult<Category>> PostCategory([FromBody] Category category)
+        {
+            if (category == null)
+            {
+                return BadRequest();  // Return 400 if category is invalid
+            }
+
+            _context.Categories.Add(category);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetCategory), new { id = category.Id }, category);
+        }
+
+        // PUT: api/Category/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutCategory(int id, [FromBody] Category category)
+        {
+            if (id != category.Id)
+            {
+                return BadRequest();  // Return 400 if the category id doesn't match
+            }
+
+            _context.Entry(category).State = EntityState.Modified;
+
+            try
+            {
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
                 await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)
             {
+<<<<<<< HEAD
                 if (!_context.Categories.Any(c => c.Cat_Id == id))
                 {
                     return NotFound($"Category with ID {id} not found.");
+=======
+                if (!CategoryExists(id))
+                {
+                    return NotFound();  // Return 404 if the category does not exist
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
                 }
                 else
                 {
@@ -103,7 +156,11 @@ namespace phanhuynhtrongtin_2122110382.Controllers
                 }
             }
 
+<<<<<<< HEAD
             return NoContent();
+=======
+            return NoContent();  // Return 204 if update is successful
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
         }
 
         // DELETE: api/Category/5
@@ -124,7 +181,11 @@ namespace phanhuynhtrongtin_2122110382.Controllers
 
         private bool CategoryExists(int id)
         {
+<<<<<<< HEAD
             return _context.Categories.Any(e => e.Cat_Id == id);
+=======
+            return _context.Categories.Any(e => e.Id == id);
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
         }
     }
 }

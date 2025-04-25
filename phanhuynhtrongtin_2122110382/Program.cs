@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -90,6 +91,24 @@ builder.Services.AddSwaggerGen(options =>
 var app = builder.Build();
 
 // Cấu hình HTTP request pipeline
+=======
+using Microsoft.EntityFrameworkCore;
+using phanhuynhtrongtin_2122110382.Data;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -97,6 +116,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+<<<<<<< HEAD
 // Sử dụng CORS
 app.UseCors("AllowReactApp");
 // Đảm bảo Authentication phải trước Authorization
@@ -109,3 +129,11 @@ app.UseStaticFiles();
 
 app.Run();
 
+=======
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36

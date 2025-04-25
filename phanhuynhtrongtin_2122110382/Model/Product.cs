@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System.ComponentModel.DataAnnotations;
 
 namespace phanhuynhtrongtin_2122110382.Model
@@ -24,5 +25,16 @@ namespace phanhuynhtrongtin_2122110382.Model
 
         // Liên kết với Category thông qua khóa ngoại Cat_Id
         public Category Category { get; set; }
+=======
+﻿namespace phanhuynhtrongtin_2122110382.Model
+{
+    public class Product
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Image{ get; set; }
+        public string Price { get; set; }
+       
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
     }
 }

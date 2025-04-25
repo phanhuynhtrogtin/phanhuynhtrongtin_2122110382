@@ -1,6 +1,7 @@
 {
   "Version": 1,
   "ManifestType": "Build",
+<<<<<<< HEAD
   "Endpoints": [
     {
       "Route": "images/2.jpg",
@@ -659,4 +660,7 @@
       ]
     }
   ]
+=======
+  "Endpoints": []
+>>>>>>> 5b990030e76124dbdc472c9728fc1284ec006a36
 }
