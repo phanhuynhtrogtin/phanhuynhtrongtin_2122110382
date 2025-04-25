@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|d:\\asp.net-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D24467-3723-433A-BBA9-400F246D3BC7}|phanhuynhtrongtin_2122110382\\phanhuynhtrongtin_2122110382.csproj|solutionrelative:phanhuynhtrongtin_2122110382\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\DTO\\ProductDTO.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:38.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\UserController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:34:09.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:00:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:02:49.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:56:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:59:00.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:59:38.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\appsettings.json",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\appsettings.json",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T01:03:19.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Program.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Program.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Program.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:38:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Properties\\launchSettings.json",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T09:40:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Mapping\\Mapping.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Mapping\\Mapping.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Mapping\\Mapping.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Mapping\\Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:05:28.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Model\\Order.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\Order.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:06:56.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Model\\Product.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\Product.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:08:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\DTO\\OrderDTO.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:27.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\User.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Model\\User.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\User.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Model\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:40:52.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:43.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:06:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\Model\\Category.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\Model\\Category.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:08:45.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\DTO\\OrderDetailDTO.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\OrderDetailDTO.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\DTO\\OrderDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:16.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "phanhuynhtrongtin_2122110382\\DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "phanhuynhtrongtin_2122110382\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:10.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

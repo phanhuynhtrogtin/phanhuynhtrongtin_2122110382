@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-\\phanhuynhtrongtin_2122110382_b2\\phanhuynhtrongtin_2122110382\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.phanhuynhtrongtin_2122110382.props",
+      "PackagePath": "build\\phanhuynhtrongtin_2122110382.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.phanhuynhtrongtin_2122110382.props",
+      "PackagePath": "buildMultiTargeting\\phanhuynhtrongtin_2122110382.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.phanhuynhtrongtin_2122110382.props",
+      "PackagePath": "buildTransitive\\phanhuynhtrongtin_2122110382.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.phanhuynhtrongtin_2122110382.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.phanhuynhtrongtin_2122110382.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

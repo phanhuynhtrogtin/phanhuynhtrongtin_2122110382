@@ -1,0 +1,44 @@
+.user-home-container {
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(to right, #e3f2fd, #fce4ec);
+    padding-top: 80px; /* Để không bị che bởi Navbar */
+  }
+  
+  .banner-wrapper {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .hero-section {
+    text-align: center;
+    padding: 80px 20px;
+  }
+  
+  .hero-heading {
+    font-size: 36px;
+    color: #1a237e;
+    margin-bottom: 20px;
+  }
+  
+  .hero-subheading {
+    font-size: 20px;
+    color: #6a1b9a;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    padding: 12px 24px;
+    font-size: 16px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #1976d2;
+  }
+  
